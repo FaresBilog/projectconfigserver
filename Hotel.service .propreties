@@ -1,6 +1,5 @@
 
 spring.data.mongodb.host=localhost
 spring.data.mongodb.port=27017
-spring.data.mongodb.database=HotelDb 
-spring.aplication.name=Hotel.service 
-spring.cloud.config.uri=localhost:8888
+spring.data.mongodb.database=Hotel2
+
